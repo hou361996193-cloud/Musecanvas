@@ -13,6 +13,12 @@ MuseCanvas 是一款在本机运行的 AI 创作画布，可用来整理素材�
 
 更新说明和两份 ZIP 的 SHA-256 校验文件见[发布页](https://github.com/hou361996193-cloud/Musecanvas/releases)。
 
+## 不会安装？让你的 AI Agent 帮你找链接
+
+不知道自己该下哪个？打开下面的指令文件，点右上角的复制按钮，再发给你自己的 AI Agent。它会先确认你的电脑是 Windows 还是 Mac，再给你一个点一下就能下载的链接。
+
+[打开下载指令](download-prompt.txt)
+
 ## 安装与启动
 
 ### macOS

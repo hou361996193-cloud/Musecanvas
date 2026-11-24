@@ -1,0 +1,7 @@
+请给我 MuseCanvas 的下载链接。
+
+1. 先判断我这台电脑是 Windows 还是 Mac。如果是 Mac，请确认是否搭载 Apple 芯片（M1 或更新型号）。
+2. 根据我的系统，发给我对应的 ZIP 直达下载链接，让我点击即可下载。
+   - Windows：[下载 MuseCanvas 0.23.3 Windows 版](https://github.com/hou361996193-cloud/Musecanvas/releases/download/v0.23.3/MuseCanvas-0.23.3-win-x64.zip)
+   - Mac：[下载 MuseCanvas 0.23.3 macOS Apple 芯片版](https://github.com/hou361996193-cloud/Musecanvas/releases/download/v0.23.3/MuseCanvas-0.23.3-mac-arm64.zip)
+3. 如果对应链接打不开，请到 `hou361996193-cloud/Musecanvas` 仓库查找最新正式发布，并把适合我系统的 ZIP 直达下载链接发给我。[GitHub Releases](https://github.com/hou361996193-cloud/Musecanvas/releases)
